@@ -1,5 +1,5 @@
-# Delphi-Collection-Math
-My Own Delphi-Collection ( Math ) 
+# MMP_Collection
+Management Music Packages ( WAV ) 
 
 ![](Delphi-Collection-Math.jpg)
 **Authors:**  *WalWalWalides*
@@ -10,10 +10,9 @@ My Own Delphi-Collection ( Math )
 | File | Contents | 
 | --- | --- |
 | .gitignore | Git ignores the Files in this File |
-|[CarreMagique](https://github.com/walwalwalides/Delphi-Collection-Math/tree/master/CarreMagique)| Create Magic Square Solution Using Delphi 
-|[CalculSum](https://github.com/walwalwalides/Delphi-Collection-Math/tree/master/CalculSum)| A simpler Way To Write Addition Operations Using Object Oriented Programming (OOPs)
-|[ProfitWTrans](https://github.com/walwalwalides/Delphi-Collection-Math/tree/master/ProfitWTrans)|Calculate Max Profit With x Numbers of Transactions Using Delphi.
-|[DrawTree](https://github.com/walwalwalides/Delphi-Collection-Math/tree/master/DrawTree)|A Simple Way To Draw a Tree.
+|[MMP_Desktop](https://github.com/walwalwalides/Delphi-Collection-Math/tree/master/CarreMagique)| Create Magic Square Solution Using Delphi 
+|[MMP_Mobile](https://github.com/walwalwalides/Delphi-Collection-Math/tree/master/CalculSum)| A simpler Way To Write Addition Operations Using Object Oriented Programming (OOPs)
+
 | README.md | The Readme for this Project|
 
 ------
