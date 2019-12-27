@@ -2,7 +2,7 @@
 ![Platforms](https://img.shields.io/badge/Supported%20platforms-Win32%20and%20Win64-red.svg)
 ![](MMP_Srever.png)
 
-`MMP` is a complete Software Solution for Management Music Packages Format WAV.
+`MMP_Server` is a complete Software Solution for Management Music Packages Format WAV.
 
 
 **Authors:**  *WalWalWalides*
@@ -10,7 +10,7 @@
 
 The Software offers a new Way for better Creating WAV packages. That means granting increased Productivity - That promises more and better Work in less Time.
 
-`MMP` simplifies service Storing and Organization, enables optimal Staffing,and you can use with different DAW ( Digital Audio Workstation) Software.
+`MMP_Server` simplifies service Storing and Organization, enables optimal Staffing,and you can use with different DAW ( Digital Audio Workstation) Software.
 
 
 
