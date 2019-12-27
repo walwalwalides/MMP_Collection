@@ -1,4 +1,4 @@
-# MMP_Mobile
+# MMP_Mobile (ANDROID)
 ![Platforms](https://img.shields.io/badge/Supported%20platforms-Win32%20and%20Win64-red.svg)
 ![](MMP_Mobile.png)
 
