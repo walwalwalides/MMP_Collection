@@ -17,6 +17,8 @@ The Software offers a new Way for better Creating WAV packages. That means grant
 
 Principal Software Benefits:
 
+      - Send and Receive Data from app
+
       - Flexible and Powerful User Interface.
 
       - Efficient Packages and resource Planning,storing.
