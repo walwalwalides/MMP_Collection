@@ -35,7 +35,7 @@ Principal Software Benefits:
 
 | Module | Name | 
 | --- | --- |
-|MMP.exe|Music Management Packages |
+|MMP_Mobile.apk|Music Management Packages(Android) |
 
 
 ------
