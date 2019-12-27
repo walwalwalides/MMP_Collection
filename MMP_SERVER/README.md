@@ -46,7 +46,7 @@ Principal Software Benefits:
 ### Install application 
 
 
-Download Link For MMP : https://github.com/walwalwalides/MMP_Collection/releases
+Download Link For MMP_SERVER : https://github.com/walwalwalides/MMP_Collection/releases
 
 ------
 
