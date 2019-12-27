@@ -42,7 +42,7 @@ Principal Software Benefits:
 
 ## To Install the Software:
 
-### Install application 
+### Install App ( ANDROID ) 
 
 Link : https://github.com/walwalwalides/MMP_Collection/releases/download/1.0.0/MMP_Mobile.apk
 
