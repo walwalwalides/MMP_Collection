@@ -10,7 +10,7 @@ Management Music Packages ( WAV )
 | File | Contents | 
 | --- | --- |
 | .gitignore | Git ignores the Files in this File |
-|[MMP_Desktop](https://github.com/walwalwalides/MMP_Collection/blob/master/MMP_Desktop)| Complete Software Solution for Management Music Packages Format WAV.
+|[MMP_Desktop](https://github.com/walwalwalides/MMP_Collection/blob/master/MMP_Desktop)| Software Solution for Management Music Packages Format WAV.
 |[MMP_Mobile](https://github.com/walwalwalides/MMP_Collection/tree/master/MMP_MOBILE)| Android Data Transfer Apps to Switch Packages Easily.
 | README.md | The Readme for this Project|
 
