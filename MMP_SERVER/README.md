@@ -1,4 +1,4 @@
-# MMP
+# MMP_Server
 ![Platforms](https://img.shields.io/badge/Supported%20platforms-Win32%20and%20Win64-red.svg)
 ![](mmp_256.png)
 
@@ -52,9 +52,6 @@ Download Link For MMP : https://github.com/walwalwalides/MMP_Collection/releases
 
 ------
 
-### Demo
-How to Insert Package : 
-https://www.youtube.com/watch?v=pQAahQTCvkA
 
 # If You Want To Donate!
 
