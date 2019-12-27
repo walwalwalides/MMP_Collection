@@ -1,7 +1,7 @@
 # MMP_Collection
 Management Music Packages ( WAV ) 
 
-![](Delphi-Collection-Math.jpg)
+![](MMP_Collection.png)
 **Authors:**  *WalWalWalides*
 ------
 
@@ -12,7 +12,6 @@ Management Music Packages ( WAV )
 | .gitignore | Git ignores the Files in this File |
 |[MMP_Desktop](https://github.com/walwalwalides/Delphi-Collection-Math/tree/master/CarreMagique)| Create Magic Square Solution Using Delphi 
 |[MMP_Mobile](https://github.com/walwalwalides/Delphi-Collection-Math/tree/master/CalculSum)| A simpler Way To Write Addition Operations Using Object Oriented Programming (OOPs)
-
 | README.md | The Readme for this Project|
 
 ------
