@@ -3,13 +3,13 @@
 
 ![](MMP_Mobile.png)
 
-`MMP_Mobile` is a complete Software Solution for Management Music Packages Format WAV.
+`MMP_Mobile` is a Android Data Transfer Apps to Switch Packages Easily..
 
 
 **Authors:**  *WalWalWalides*
 ------
 
-The Android App offers a new Way for better Creating WAV packages. That means granting increased Productivity - That promises more and better Work in less Time.
+The Android App offers a new Way for better transfer WAV packages. That means granting increased Productivity - That promises more and better Work in less Time.
 
 `MMP_Mobile` simplifies service Storing and Organization, enables optimal Staffing,and you can use with different DAW ( Digital Audio Workstation) Software.
 
