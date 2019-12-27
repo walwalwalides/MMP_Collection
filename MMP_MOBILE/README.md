@@ -1,4 +1,4 @@
-# MMP
+# MMP_Mobile
 ![Platforms](https://img.shields.io/badge/Supported%20platforms-Win32%20and%20Win64-red.svg)
 ![](mmp_256.png)
 
@@ -23,7 +23,6 @@ Principal Software Benefits:
 
       - Strong resource Management and capacity Planning.
       
-      - Supports data access to PostgreSQL tables and views.
       
       - Backup and Recovery.
 
@@ -44,17 +43,9 @@ Principal Software Benefits:
 ## To Install the Software:
 
 ### Install application 
-Is it better to install Postgresql before installing the application 
 
-Download Link For Postgesql : https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
 
-Download Link For MMP : https://github.com/walwalwalides/MMP/releases/tag/1.0.0/MMP_setup.exe
 
-------
-
-### Demo
-How to Insert Package : 
-https://www.youtube.com/watch?v=pQAahQTCvkA
 
 # If You Want To Donate!
 
