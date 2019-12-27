@@ -10,8 +10,8 @@ Management Music Packages ( WAV )
 | File | Contents | 
 | --- | --- |
 | .gitignore | Git ignores the Files in this File |
-|[MMP_Desktop](https://github.com/walwalwalides/Delphi-Collection-Math/tree/master/CarreMagique)| Create Magic Square Solution Using Delphi 
-|[MMP_Mobile](https://github.com/walwalwalides/Delphi-Collection-Math/tree/master/CalculSum)| A simpler Way To Write Addition Operations Using Object Oriented Programming (OOPs)
+|[MMP_Desktop](https://github.com/walwalwalides/MMP_Collection/tree/master/MMP_DESKTOP)| Create Magic Square Solution Using Delphi 
+|[MMP_Mobile](https://github.com/walwalwalides/MMP_Collection/tree/master/MMP_MOBILE)| A simpler Way To Write Addition Operations Using Object Oriented Programming (OOPs)
 | README.md | The Readme for this Project|
 
 ------
