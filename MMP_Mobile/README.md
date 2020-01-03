@@ -13,6 +13,8 @@ The Android App offers a new Way for better transfer WAV packages. That means gr
 
 `MMP_Mobile` simplifies service Storing and Organization, enables optimal Staffing,and you can use with different DAW ( Digital Audio Workstation) Software.
 
+The App are designed to use UDP or TCP Protocol depending on your requirements.
+
 
 
 
@@ -22,10 +24,13 @@ Principal Software Benefits:
 
       - Efficient Packages and resource Planning,storing.
 
-      - Strong resource Management and capacity Planning.
-      
+      - Strong resource Management and capacity Planning.      
       
       - Backup and Recovery.
+      
+      - Less Network Traffic.
+      
+      - Offer two transport layer protocol TCP and UDP.
 
 
     
