@@ -46,12 +46,13 @@ Principal Software Benefits:
 
 ## To Install the Software:
 
-### Install application 
+### Install application (Last Version V1.0.2)
 Is it better to install Postgresql before installing the application 
 
 Download Link For Postgesql : https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
 
-Download Link For MMP : https://github.com/walwalwalides/MMP_Collection/releases/download/V1.0.1/MMP__Setup.exe
+Download Link For MMP : https://github.com/walwalwalides/MMP_Collection/releases/download/V1.0.2/MMP__Setup.exe
+
 
 ------
 
