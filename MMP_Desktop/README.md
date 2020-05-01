@@ -28,6 +28,8 @@ Principal Software Benefits:
       
       - Supports data access to PostgreSQL tables and views.
       
+      - Automatically update by new versions are available.
+      
       - Backup and Recovery.
 
 
