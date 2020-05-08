@@ -30,6 +30,8 @@ Principal Software Benefits:
       
       - Automatically update by new versions are available.
       
+      - View recently opened files.
+      
       - Backup and Recovery.
 
 
