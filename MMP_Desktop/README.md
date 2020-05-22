@@ -32,6 +32,8 @@ Principal Software Benefits:
       
       - View recently opened files.
       
+      - Move Sound from package to another package.
+      
       - Backup and Recovery.
 
 
