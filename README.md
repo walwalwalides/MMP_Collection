@@ -11,6 +11,8 @@ Management Music Packages ( WAV )  | ANDROID & DESKTOP
 
 
 ![](MMP_Collection.png)
+
+------
 **Authors:**  *WalWalWalides*
 ------
 
