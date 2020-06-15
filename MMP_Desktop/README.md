@@ -1,4 +1,4 @@
-# MMP
+# MMP ( Desktop )
 ![Platforms](https://img.shields.io/badge/Supported%20platforms-Win32%20and%20Win64-red.svg)
 
 ![](View/Img/Setup.png)
@@ -66,7 +66,7 @@ Is it better to install Postgresql before installing the application
 
 Download Link For Postgesql : https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
 
-Download Link For MMP : https://github.com/walwalwalides/MMP_Collection/releases/download/V1.0.5/MMP__Setup.exe
+Download Link For MMP : https://github.com/walwalwalides/MMP_Collection/releases/download/V1.0.6/MMP__Setup.exe
 
 
 ------
