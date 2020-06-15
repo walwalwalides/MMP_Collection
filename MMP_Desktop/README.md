@@ -35,6 +35,14 @@ Principal Software Benefits:
       - Move Sound from package to another package.
       
       - Backup and Recovery.
+      
+      - Upload and Download packages using mainstream Cloudservices like (Google Drive,DropBox... ).
+      
+      - Ability to modify  and store all connection parametres related to the Cloudservices.
+      
+      - Auto Generate .mmp files with all specific information for every packages in a single collection.
+      
+      - Create a collection using all existes packages in the main database.
 
 
     
