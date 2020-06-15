@@ -45,8 +45,9 @@ Principal Software Benefits:
       - Create a collection using all existes packages in the main database.
 
 
-    
-    
+ ## MMP Cloud   
+ 
+ ![](View/Img/CloudSettings.png)   
 
 
 ## Contains
@@ -60,7 +61,7 @@ Principal Software Benefits:
 
 ## To Install the Software:
 
-### Install application (Last Version V1.0.5)
+### Install application (Last Version V1.0.6)
 Is it better to install Postgresql before installing the application 
 
 Download Link For Postgesql : https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
