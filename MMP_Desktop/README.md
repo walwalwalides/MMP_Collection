@@ -35,10 +35,19 @@ Principal Software Benefits:
       - Move Sound from package to another package.
       
       - Backup and Recovery.
+      
+      - Upload and Download packages using mainstream Cloudservices like (Google Drive,DropBox... ).
+      
+      - Ability to modify  and store all connection parametres related to the Cloudservices.
+      
+      - Auto Generate .mmp files with all specific information for every packages in a single collection.
+      
+      - Create a collection using all existes packages in the main database.
 
 
-    
-    
+ ## MMP Cloud   
+ 
+ ![](View/Img/CloudSettings.png)   
 
 
 ## Contains
@@ -52,12 +61,12 @@ Principal Software Benefits:
 
 ## To Install the Software:
 
-### Install application (Last Version V1.0.3)
+### Install application (Last Version V1.0.6)
 Is it better to install Postgresql before installing the application 
 
 Download Link For Postgesql : https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
 
-Download Link For MMP : https://github.com/walwalwalides/MMP_Collection/releases/download/V1.0.3/MMP__Setup.exe
+Download Link For MMP : https://github.com/walwalwalides/MMP_Collection/releases/download/V1.0.5/MMP__Setup.exe
 
 
 ------
