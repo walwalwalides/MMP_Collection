@@ -43,6 +43,8 @@ Principal Software Benefits:
       - Auto Generate .mmp files with all specific information for every packages in a single collection.
       
       - Create a collection using all existes packages in the main database.
+      
+      - Merge two packages in one single package.
 
 
  ## MMP Cloud   
