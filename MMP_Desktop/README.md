@@ -77,6 +77,14 @@ Download Link For MMP : https://github.com/walwalwalides/MMP_Collection/releases
 How to Insert Package : 
 https://www.youtube.com/watch?v=pQAahQTCvkA
 
+Create Collection Connected to the Cloud : 
+https://www.youtube.com/watch?v=vMnvHVXiIj4
+
+How to Merge two packages :
+
+
+
+
 # If You Want To Donate!
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Y79F36A9BGLHS&source=url)
