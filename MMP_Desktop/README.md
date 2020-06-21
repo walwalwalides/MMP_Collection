@@ -81,7 +81,7 @@ Principal Software Benefits:
 
 ## To Install the Software:
 
-### Install application (Last Version V1.0.6)
+### Install application (Last Version V1.0.7)
 Is it better to install Postgresql before installing the application 
 
 Download Link For Postgesql : https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
