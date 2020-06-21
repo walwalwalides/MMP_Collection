@@ -30,7 +30,7 @@ Principal Software Benefits:
       
       - Automatically update by new versions are available.
       
-      - View recently opened files.
+      - View all recently opened files
       
       - Move Sound from package to another package.
       
@@ -45,11 +45,23 @@ Principal Software Benefits:
       - Create a collection using all existes packages in the main database.
       
       - Merge two packages in one single package.
+      
+      - Ability to exchange packages with different platforms.
+
+      - Better management of communication errors with the database.
+
+      - Migration  of two packages in one single package.
+
 
 
  ## MMP Cloud   
  
  ![](View/Img/CloudSettings.png)   
+ 
+ 
+ ## MMP Cloud   
+ 
+ ![](View/Img/MigrationView.png)   
 
 
 ## Contains
