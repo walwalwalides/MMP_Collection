@@ -53,7 +53,9 @@ Principal Software Benefits:
 
       - Migration  of two packages in one single package.
 
-
+ ## Migration  
+ 
+ ![](View/Img/PackagesView.png)   
 
  ## MMP Cloud   
  
