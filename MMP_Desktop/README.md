@@ -2,7 +2,7 @@
 ![Platforms](https://img.shields.io/badge/Supported%20platforms-Win32%20and%20Win64-red.svg)
 
 # Communication Setting
-![](View/Img/Setup.png)
+![](View/Img/MainView.png)
 
 `MMP` is a complete Software Solution for Management Music Packages Format WAV.
 
@@ -62,6 +62,9 @@ Principal Software Benefits:
  
  ![](View/Img/MigrationView.png)   
 
+ ## Communication Settings   
+ 
+ ![](View/Img/CommunicationSettings.png)   
 
  ## MMP Cloud   
  
