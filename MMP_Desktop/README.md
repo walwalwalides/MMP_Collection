@@ -1,6 +1,7 @@
 # MMP ( Desktop )
 ![Platforms](https://img.shields.io/badge/Supported%20platforms-Win32%20and%20Win64-red.svg)
 
+# Communication Setting
 ![](View/Img/Setup.png)
 
 `MMP` is a complete Software Solution for Management Music Packages Format WAV.
@@ -30,7 +31,7 @@ Principal Software Benefits:
       
       - Automatically update by new versions are available.
       
-      - View recently opened files.
+      - View all recently opened files
       
       - Move Sound from package to another package.
       
@@ -45,11 +46,25 @@ Principal Software Benefits:
       - Create a collection using all existes packages in the main database.
       
       - Merge two packages in one single package.
+      
+      - Ability to exchange packages with different platforms.
 
+      - Better management of communication errors with the database.
+
+      - Migration  of two packages in one single package.
+
+ ## Migration  
+ 
+ ![](View/Img/PackagesView.png)   
 
  ## MMP Cloud   
  
  ![](View/Img/CloudSettings.png)   
+ 
+ 
+ ## Migration  
+ 
+ ![](View/Img/MigrationView.png)   
 
 
 ## Contains
