@@ -68,7 +68,7 @@ Is it better to install Postgresql before installing the application
 
 Download Link For Postgesql : https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
 
-Download Link For MMP : https://github.com/walwalwalides/MMP_Collection/releases/download/V1.0.6/MMP__Setup.exe
+Download Link For MMP : https://github.com/walwalwalides/MMP_Collection/releases/download/V1.0.7/MMP_1.0.7_Setup.exe
 
 
 ------
