@@ -57,26 +57,25 @@ Principal Software Benefits:
  
  ![](View/Img/PackagesView.png)  
  
- - After your create a New package ,You can store all kits Sounds bolow in four categories.
+ - After your create a new package ,You can store all kits Sounds bolow in four categories.
 
- 
  ## Migration  
  
  ![](View/Img/MigrationView.png)   
  
- - 
+ - Merge two packages in one single package.this feature Help you to reduce the number Of Packages By need.
 
  ## Communication Setting   
  
  ![](View/Img/CommunicationSetting.png)   
  
- - 
+ - Setting Connection with (PostgresSQL)Database.
 
  ## MMP Cloud   
  
  ![](View/Img/CloudSettings.png)   
  
- - 
+ - Upload and Download packages using mainstream Cloudservices like (Google Drive,DropBox... ).
 
 ## Contains
 
