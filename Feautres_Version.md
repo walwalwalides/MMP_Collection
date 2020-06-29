@@ -1,5 +1,21 @@
 MMP : Management Music Packages ( WAV )
 
+Management Music Packages ( WAV )
+
+New Features (V1.0.0)
+
+New Features (V1.0.1)
+
+New Features (V1.0.2)
+
+New Features (V1.0.3)
+
+New Features (V1.0.4)
+- Ability to create a new Package and set all different parameters.
+- Using .mmp file  Extension to create your own Collection.
+- Make a backup by need for all choosed collection.
+- Join automaticly all sounds WAVs to the main package.
+ 
 New Features (V1.0.5): 
 - Create your Own Package and Define the different parameters.
 - Use .mmp file to create your own Collection.
