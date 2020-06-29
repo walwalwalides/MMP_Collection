@@ -55,20 +55,28 @@ Principal Software Benefits:
 
  ## Package View 
  
- ![](View/Img/PackagesView.png)   
+ ![](View/Img/PackagesView.png)  
+ 
+ - After your create a New package ,You can store all kits Sounds bolow in four categories.
 
  
  ## Migration  
  
  ![](View/Img/MigrationView.png)   
+ 
+ - 
 
  ## Communication Setting   
  
  ![](View/Img/CommunicationSetting.png)   
+ 
+ - 
 
  ## MMP Cloud   
  
  ![](View/Img/CloudSettings.png)   
+ 
+ - 
 
 ## Contains
 
