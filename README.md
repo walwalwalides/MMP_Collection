@@ -28,7 +28,7 @@ Management Music Packages ( WAV )  | ANDROID & DESKTOP
 ------
 
 ## Software Development Process
-- [All Integrate Features](New_Features_Version.md) 
+- [All Integrate Features(https://github.com/walwalwalides/MMP_Collection/blob/master/New_Feautres_Version.md) 
 ------
 
 # If You Want To Donate!
