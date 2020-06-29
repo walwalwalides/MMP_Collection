@@ -63,7 +63,7 @@ Principal Software Benefits:
  
  ![](View/Img/MigrationView.png)   
  
- - Merge two packages in one single package.this feature Help you to reduce the number Of Packages By need.
+ - Merge two packages in one single package.this feature Help you to reduce the number of Packages By need.
 
  ## Communication Setting   
  
