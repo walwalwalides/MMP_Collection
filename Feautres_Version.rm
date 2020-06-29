@@ -1,12 +1,17 @@
+MMP : Management Music Packages ( WAV )
 
-
-
+New Features (V1.0.5): 
+- Create your Own Package and Define the different parameters.
+- Use .mmp file to create your own Collection.
+- Make a backup by need for all choosed collection.
+- Join automaticly all sounds WAVs to the main package.
 
 New Features (V1.0.6):
 - Upload and Download packages using mainstream Cloudservices like (Google Drive,DropBox... ).
 - Ability to modify and store all connection parametres related to the Cloudservices.
 - Auto Generate .mmp files with all specific information for every packages in a single collection.
 - Create a collection using all existes packages in the main database.
+
 New Features (V1.0.7)
 - Ability to exchange packages with different platforms.
 - Better management of communication errors with the database.
