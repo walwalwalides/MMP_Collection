@@ -17,7 +17,7 @@ Management Music Packages ( WAV )  | ANDROID & DESKTOP
 ------
 
 The Software offers a new Way for better Creating and editing WAV packages.
-It's a good Tools for music Producent to store Big number of sound.All sounds in packages are divided in different categories,so the Producer can easy found the searching Sound. 
+It's a good Tools for music Producent to store Big number of sound.All sounds are divided in different categories,so the Producer can easy found the searching Sound. 
 That means granting increased Productivity - That promises more and better Work in less Time.
 With help this software,the producer can create his own Collection and exchange it with another producer throught the cloud store like ( Google Drive ...).
 
