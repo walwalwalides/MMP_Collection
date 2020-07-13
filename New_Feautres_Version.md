@@ -41,3 +41,4 @@ New Features (V1.0.8)
 - Support a new Format for Wave Sounds. 
 - Integration of new submenu "Genre" that offer (the Ability to define Color for every music Genre).
 - Integration of new submenu "Information User" that offer(the Ability to store user information like Lastname,Firstname,Email,Telefonnummern).
+- integration of WAV Scope for each item in list.
