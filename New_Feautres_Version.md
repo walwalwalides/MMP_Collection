@@ -36,9 +36,9 @@ New Features (V1.0.7)
 - Automate update support.
 
 New Features (V1.0.8)
-- Integrate a custom Option menu into main menu of the Software. 
+- Implementation of Options Menu on Software bar.
 - Create and adapt a better structure for (.mmp) Files.
-- Support a new Format for Wave Sounds. 
+- Support a new Format for Wave Sounds.
 - Integration of new submenu "Genre" that offer (the Ability to define Color for every music Genre).
-- Integration of new submenu "Information User" that offer(the Ability to store user information like Lastname,Firstname,Email,Telephone number).
+- Integration of new submenu "Information User" that offer(the Ability to store "user information" like  Firstname,Email,Telephone number).
 - Integration of WAV Scope for each item in list.
