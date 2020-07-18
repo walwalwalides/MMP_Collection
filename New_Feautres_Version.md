@@ -40,5 +40,5 @@ New Features (V1.0.8)
 - Create and adapt a better structure for (.mmp) Files.
 - Support a new Format for Wave Sounds. 
 - Integration of new submenu "Genre" that offer (the Ability to define Color for every music Genre).
-- Integration of new submenu "Information User" that offer(the Ability to store user information like Lastname,Firstname,Email,Telefonnummern).
+- Integration of new submenu "Information User" that offer(the Ability to store user information like Lastname,Firstname,Email,Telephone number).
 - Integration of WAV Scope for each item in list.
