@@ -24,6 +24,8 @@ Principal Software Benefits:
       - Send and Receive Data from app
 
       - Flexible and Powerful User Interface.
+      
+      - Support database Systems  : postgreSQL.
 
       - Efficient Packages and resource Planning,storing.
 
