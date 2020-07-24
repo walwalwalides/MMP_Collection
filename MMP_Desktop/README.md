@@ -118,7 +118,7 @@ How to Merge two packages :
 
 
 ### Documentation 
-| --- | ---- |
+| --- | --- |
 
 |[Create a Collection](https://github.com/walwalwalides/MMP_Collection/blob/master/MMP_Desktop/Help/Collection.md)| 
 
