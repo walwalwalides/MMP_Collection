@@ -118,7 +118,7 @@ How to Merge two packages :
 
 
 ### Documentation 
-![Create a Collection](Help/Collection.md)
+![Create a Collection](Help\Collection.md)
 
 
 
