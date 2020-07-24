@@ -7,8 +7,8 @@
 
 2- Add a new package :
 
-- Set the name of package ( the Package name muss be not existing in the database )
-- Set the Package type ( Hiphop,Trap,Pop...)
+- Set the name of package ( the Package name muss be not existing in the database ).
+- Set the Package type ( Hiphop,Trap,Pop...).
 - Set the Package Profile picture.
 - Complete the other Package prametres like (Date,Price,Description).
 
