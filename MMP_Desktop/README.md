@@ -117,6 +117,11 @@ https://www.youtube.com/watch?v=vMnvHVXiIj4
 How to Merge two packages :
 
 
+### Documentation 
+![Create a Collection](Help/Collection.md)
+
+
+
 
 
 # If You Want To Donate!
