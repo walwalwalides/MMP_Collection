@@ -42,6 +42,7 @@ New Features (V1.0.8)
 - Integration of new submenu "Genre" that offer (the Ability to define Color for every music Genre).
 - Integration of new submenu "Information User" that offer(the Ability to store "user information" like  Firstname,Email,Telephone number).
 - Integration of WAV Scope for each item in list.
+
 New Features (V1.0.9)
 - Implementation of Path Setting (Customizing Paths for delivery processing) :
 Use this window to define the location of various files und directories that the application requires to perform specific tasks.For exemple : Packages File Path (the location of the folder in which the application stores package files).
