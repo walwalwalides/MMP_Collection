@@ -75,6 +75,12 @@ Principal Software Benefits:
  
  - Setting Connection with (PostgresSQL)Database.
 
+## Path Setting
+
+ ![](View/Img/PathSetting.png)   
+ 
+ - Customizing Paths for delivery processing.
+
  ## MMP Cloud   
  
  ![](View/Img/CloudSettings.png)   
