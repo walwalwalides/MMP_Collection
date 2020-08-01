@@ -24,6 +24,8 @@ Principal Software Benefits:
       - Send and Receive Data from app
 
       - Flexible and Powerful User Interface.
+      
+      - Support database Systems  : postgreSQL.
 
       - Efficient Packages and resource Planning,storing.
 
@@ -90,16 +92,21 @@ Principal Software Benefits:
 
 ## To Install the Software:
 
-### Install application (Last Version V1.0.7)
+### Install application (Last Version V1.0.8)
 Is it better to install Postgresql before installing the application 
 
 Download Link For Postgesql : https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
 
-Download Link For MMP : https://github.com/walwalwalides/MMP_Collection/releases/download/V1.0.7/MMP_1.0.7_Setup.exe
+Download Link For MMP : https://github.com/walwalwalides/MMP_Collection/releases/download/V1.0.8/MMP_1.0.8_Setup.exe
 
 
 ------
+### New Features
+MMP(V1.08) :
+https://www.youtube.com/watch?v=WAyMIeGzf34
 
+
+------
 ### Demo
 How to Insert Package : 
 https://www.youtube.com/watch?v=pQAahQTCvkA
@@ -110,7 +117,10 @@ https://www.youtube.com/watch?v=vMnvHVXiIj4
 How to Merge two packages :
 
 
-
+### Documentation 
+|Titel|Subject|
+| --- | --- |
+|[Create a Collection](https://github.com/walwalwalides/MMP_Collection/blob/master/MMP_Desktop/Help/Collection.md)| How you create a Collection. 
 
 # If You Want To Donate!
 
