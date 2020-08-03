@@ -25,10 +25,8 @@ With help this software,the producer can create his own Collection and exchange 
 `MMP` simplifies service Storing and Organization, enables optimal Staffing,and offer the ability to combine the software with your choosed DAW software ( Digital Audio Workstation) .
 
 ------
-<p align="center">
-# DESKTOP + ANDROID
-</p> 
-
+<p align="center">## DESKTOP + ANDROID</p> 
+------
 
 
    ![](MMP_Collection.png)
