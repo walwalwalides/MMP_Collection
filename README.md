@@ -12,13 +12,7 @@
   <img src=MMP_Splash.png />
 </p> 
 
-
-
-
-                         
-
-
-
+- DESKTOP & ANDROID
 
    ![](MMP_Collection.png)
 
