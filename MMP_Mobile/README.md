@@ -14,7 +14,7 @@
 **Authors:**  *WalWalWalides*
 ------
 
-The Android App offers a new Way for better transfer WAV packages. That means granting increased Productivity - That promises more and better Work in less Time.
+`MMP_Mobile` offers a new Way for better transfer WAV packages. That means granting increased Productivity - That promises more and better Work in less Time.
 
 `MMP_Mobile` simplifies service Storing and Organization, enables optimal Staffing,and you can use with different DAW ( Digital Audio Workstation) Software.
 
