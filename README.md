@@ -26,7 +26,7 @@ With help this software,the producer can create his own Collection and exchange 
 
 ------
 
-<center> ##DESKTOP + ANDROID </center>
+                                                ## DESKTOP + ANDROID
 
 ------
 
