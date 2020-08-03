@@ -1,4 +1,6 @@
-                                                      ![](MMP_Splash.png)
+<p align="center">
+  <img src=![](MMP_Splash.png) />
+</p>                                    
 # MMP_Collection
 
 - Management Music Packages ( WAV )  | ANDROID & DESKTOP
