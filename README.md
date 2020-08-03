@@ -12,10 +12,6 @@
   <img src=MMP_Splash.png />
 </p> 
 
-- DESKTOP & ANDROID
-
-   ![](MMP_Collection.png)
-
 ------
 **Authors:**  *WalWalWalides*
 ------
@@ -27,6 +23,14 @@ It's a good Tools for music Producent to store Big number of sound.All sounds ar
 With help this software,the producer can create his own Collection and exchange it with another producer throught the Cloud store like ( Google Drive,DropBox ...).
 
 `MMP` simplifies service Storing and Organization, enables optimal Staffing,and offer the ability to combine the software with your choosed DAW software ( Digital Audio Workstation) .
+
+------
+- DESKTOP & ANDROID
+------
+
+   ![](MMP_Collection.png)
+
+
 
 
 ## Contains
