@@ -7,7 +7,7 @@
   <img src=MMP_Mobile.png />
 </p> 
 
-                                  `MMP_Mobile` is a Android Data Transfer Apps to Switch Packages Easily..
+                                  MMP_Mobile is a Data Transfer Apps,helps to load Packages Easily..
 
 
 
