@@ -1,4 +1,6 @@
 # MMP ( Desktop )
+> Management Music Packages ( WAV )  | DESKTOP
+
 ![Platforms](https://img.shields.io/badge/Supported%20platforms-Win32%20and%20Win64-red.svg)
 
 # Main View
