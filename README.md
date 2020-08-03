@@ -1,15 +1,14 @@
 # MMP_Collection
 
-
 - Management Music Packages ( WAV )  | ANDROID & DESKTOP
-                          ![](MMP_Splash.png)
+                         
 ![Platforms](https://img.shields.io/badge/Supported%20platforms-Win32%20and%20Win64-red.svg)
 ![Platforms](https://img.shields.io/badge/Supported%20platforms-ANDROID-BLUE.svg)
 ![GitHub](https://img.shields.io/github/license/walwalwalides/MMP_Collection)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/walwalwalides/MMP_Collection)
 ![GitHub last commit](https://img.shields.io/github/last-commit/walwalwalides/MMP_Collection)
 [![GitHub stars](https://img.shields.io/github/stars/walwalwalides/MMP_Collection)](https://github.com/walwalwalides/MMP_Collection/stargazers)
-
+        ![](MMP_Splash.png)
 
 
 ![](MMP_Collection.png)
