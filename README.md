@@ -33,6 +33,8 @@ With help this software,the producer can create his own Collection and exchange 
 
    ![](MMP_Collection.png)
 
+Modern technologies are making this possible:
+- The Mobile application recieve packages from your desktop application is basically  using a bi-directional socket architecture.
 
 
 
