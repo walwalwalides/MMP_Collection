@@ -35,7 +35,7 @@ Principal Software Benefits:
       
       - Less Network Traffic.
       
-      - Offer two transport layer protocol TCP and UDP.
+      - For transfaering Packages ,u can use two different transport layer protocols like TCP or UDP.
 
 
     
