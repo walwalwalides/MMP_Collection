@@ -48,5 +48,13 @@ New Features (V1.0.9)
 Use this window to define the location of various files und directories that the application requires to perform specific tasks.For exemple : Packages File Path (the location of the folder in which the application stores package files).
 - Delete multiple selected Packages in the main list .
 
+New Features (V1.1.0)
+- Implementation of new intro splash screen for Application.
+- Save Path folder directly after choosing a picture.
+- Fix debug errors by adding a new package.
+- Change automatically the name of Sound by founding an empty space.
+- Ability to import a package from Database by creating a new Collection.
+
+
 
 
