@@ -2,32 +2,32 @@
 
 Software Versioning :
 
-New Features (V1.0.0) | Release Date (08.11.2019) :
+New Features (V1.0.0) | Release Date (08.10.2019) :
 
 - Save all important package parameters in database.
 
-New Features (V1.0.1) | Release Date (08.12.2019) :
+New Features (V1.0.1) | Release Date (08.11.2019) :
 
-_ Divide and store all packages in four categories (Kick,Snare,Clap,Hihat). 
+- Divide and store all packages in four categories (Kick,Snare,Clap,Hihat). 
 
-New Features (V1.0.2) | Release Date (08.01.2020) :
+New Features (V1.0.2) | Release Date (08.12.2019) :
 - Add licence template for the Software.
 
-New Features (V1.0.3) | Release Date (08.02.2020) :
+New Features (V1.0.3) | Release Date (08.01.2020) :
 
 - Auto check connection with database.
 
-New Features (V1.0.4) | Release Date (08.03.2020)
-- Automate Support of new update version.
+New Features (V1.0.4) | Release Date (08.02.2020)
+- Automate Support of new Update Version by checking github latest release.
  
-New Features (V1.0.5) | Release Date (08.04.2020) :
+New Features (V1.0.5) | Release Date (08.03.2020) :
 
 - Ability to create a new Package and set all different parameters.
 - Using .mmp file  Extension to create your own Collection.
 - Make a backup by need for all choosed collection.
 - Join automaticly all sounds WAVs to the main package.
  
-New Features (V1.0.6) | Release Date (08.05.2020) :
+New Features (V1.0.6) | Release Date (08.04.2020) :
 
 - Upload and Download packages using mainstream Cloudservices like (Google Drive,DropBox... ).
 - Ability to modify and store all connection parametres related to the Cloudservices.
