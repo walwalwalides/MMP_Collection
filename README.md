@@ -42,10 +42,9 @@ Modern technologies are making this possible:
 
 | File | Contents | Last Version |
 | --- | --- | --- |
-| .gitignore | Git ignores the Files in this File ||
-|[MMP_Desktop](https://github.com/walwalwalides/MMP_Collection/blob/master/MMP_Desktop)| Software Solution for Management Music Packages Format WAV |(https://img.shields.io/github/v/release/walwalwalides/MMP_Collection)|
+|[MMP_Desktop](https://github.com/walwalwalides/MMP_Collection/blob/master/MMP_Desktop)| Software Solution for Management Music Packages Format WAV |![GitHub release (latest by date)](https://img.shields.io/github/v/release/walwalwalides/MMP_Collection)|
 |[MMP_Mobile](https://github.com/walwalwalides/MMP_Collection/tree/master/MMP_Mobile)| Android Data Transfer Apps to Switch Packages Easily||
-| README.md | The Readme for this Project||
+
 
 ------
 
