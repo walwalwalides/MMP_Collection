@@ -16,13 +16,13 @@
 **Authors:**  *WalWalWalides*
 ------
 
-The Software offers a new Way for better Creating and editing WAV packages.
+- The Software offers a new Way for better Creating and editing WAV packages.
 It's a good Tools for music Producent to store Big number of sound.All sounds are divided in different categories,so the Producer can easy found the searching Sound. 
 
-`MMP` increase Productivity - That is mean more and better Work in less Time.
+- `MMP` increase Productivity - That is mean more and better Work in less Time.
 With help this software,the producer can create his own Collection and exchange it with another producer throught the Cloud store like ( Google Drive,DropBox ...).
 
-`MMP` simplifies service Storing and Organization, enables optimal Staffing,and offer the ability to combine the software with your choosed DAW software ( Digital Audio Workstation) .
+- `MMP` simplifies service Storing and Organization, enables optimal Staffing,and offer the ability to combine the software with your choosed DAW software ( Digital Audio Workstation) .
 
 ------
 
