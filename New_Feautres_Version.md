@@ -58,7 +58,7 @@ Use this window to define the location of various files und directories that the
 
 New Features (V1.1.0) | Release Date (08.08.2020) :
 
-- Implementation of new intro splash screen for Application.
+- Implementation of new intro splash screen for application.
 - Save Path folder directly after choosing a picture.
 - Fix Debug : 
 + Errors by adding a new package.
