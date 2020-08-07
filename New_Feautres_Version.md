@@ -61,8 +61,8 @@ New Features (V1.1.0) | Release Date (08.08.2020) :
 - Implementation of new intro splash screen for application.
 - Save Path folder directly after choosing a picture.
 - Fix Debug : 
-  + Errors by adding a new package.
-  + Errors by starting the application at the first time .
+            + Errors by adding a new package.
+            + Errors by starting the application at the first time .
 - Change automatically the name of Sound by founding an empty space.
 - Ability to import a package from Database by creating a new Collection.
 - Set a new Icon for MMP Installer. 
