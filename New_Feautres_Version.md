@@ -57,7 +57,7 @@ Use this window to define the location of various files und directories that the
 - Delete multiple selected Packages in the main list .
 
 New Features (V1.1.0) | Release Date (08.08.2020) :
-
+- Auto file sharing from cloud storage
 - Implementation of new intro splash screen for application.
 - Save Path folder directly after choosing a picture.
 - Fix Debug : 
