@@ -88,6 +88,8 @@ Principal Software Benefits:
  ![](View/Img/CloudSettings.png)   
  
  - Upload and Download packages using mainstream Cloudservices like (Google Drive,DropBox... ).
+ - After enable the Google Drive API for a specific Google account, and get the access credentials to be used from MMP Software to upload and download packages. 
+ - You have to Download credentials .json file, to create an connection with your Own Google drive using the credentials provided by Google (Client ID and Client Secret).
 
 ## Contains
 
