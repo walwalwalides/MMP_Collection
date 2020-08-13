@@ -1,7 +1,6 @@
 # MainView
-- The Software offers a new Way for creating and sharing WAV sound packages. 
-- Many packages can be cellect it in one single Collection. 
-That means granting increased Productivity and That promises more and better Work in less Time.
+- The Software offers a new Way for creating and editing WAV sound packages. 
+- Many packages can be cellect it in one single Collection.
 
 ![](Img/MainView.png)
 
