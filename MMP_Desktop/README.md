@@ -88,7 +88,7 @@ Principal Software Benefits:
  ![](View/Img/CloudSettings.png)   
  
  - Upload and Download packages using mainstream Cloudservices like (Google Drive,DropBox... ).
- # How to set a connection  with Google drive
+ # How to set a connection  with Google Drive
  * After enable the Google Drive API for a specific Google account, and get the access credentials to be used from MMP Software to upload and download packages. 
  * You have to Download credentials (.json) file and move it to work path, to create an secure connection using two parameters from the credentials provided by Google (Client ID and Client Secret).
 
