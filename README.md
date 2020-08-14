@@ -49,7 +49,7 @@ Modern technologies are making this possible:
 ------
 
 ## Software Development Process
-- Under the following link you will find all software processing development :
+Under the following link you will find all software processing development :
 - [All Integrate Features](https://github.com/walwalwalides/MMP_Collection/blob/master/New_Feautres_Version.md) 
 ------
 
