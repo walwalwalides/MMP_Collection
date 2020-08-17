@@ -68,6 +68,11 @@ New Features (V1.1.0) | Release Date (08.08.2020) :
 - Set a new Icon for MMP Installer. 
 - Integrate audio format PCM 16 bit.
 
+New Features (V1.1.1) | Release Date (08.09.2020) :
+- Implementation of file explorer Menu.
+- Setting the saving option for layout.
+- Creating a monitoring profile.
+
 
 
 
