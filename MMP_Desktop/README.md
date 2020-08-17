@@ -12,8 +12,8 @@
 **Authors:**  *WalWalWalides*
 ------
 
-`MMP` offers a new Way for better Creating and editing WAV packages.
-It's a good Tools for music Producent to store Big number of sound.All sounds in packages is divided in different categories,so the Producer can easy found the searching Sound. 
+`MMP` offers a new way for better creating and editing WAV packages.
+It's a good Tools for music Producer to store Big number of sound.All sounds in packages is divided in different categories,so the Producer can easy found the searching Sound. 
 That means granting increased Productivity - That promises more and better Work in less Time.
 
 `MMP` simplifies service Storing and Organization, enables optimal Staffing,and you can use with different DAW ( Digital Audio Workstation) Software.
