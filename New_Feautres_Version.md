@@ -70,8 +70,12 @@ New Features (V1.1.0) | Release Date (08.08.2020) :
 
 New Features (V1.1.1) | Release Date (08.09.2020) :
 - Implementation of file explorer menu.
-- Setting the saving option for layout.
 - Creating a monitoring profile.
+- Build a UI with Layout .
+- Add custom scale in dimensions
+- Add Setting option for layout.
+- Maximize upload and download speed.
+- Associate a new skin for the application
 
 
 
