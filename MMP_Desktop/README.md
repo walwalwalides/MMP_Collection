@@ -87,7 +87,8 @@ Principal Software Benefits:
 
  ## MMP Cloud   
  
- ![](View/Img/CloudSettings.png)   
+ ![](View/Img/CloudSettings.png) 
+ 
  
  - Upload and Download packages using mainstream Cloudservices like (Google Drive,DropBox... ).
  # How to set a connection  with Google Drive
@@ -97,6 +98,8 @@ Principal Software Benefits:
   ## Upload to Cloud   
  
  ![](View/Img/Upload_to_Cloud.png)   
+ 
+ - Receive Notifications after uploading Sounds.
 
 ## Contains
 
@@ -109,12 +112,12 @@ Principal Software Benefits:
 
 ## To Install the Software:
 
-### Install application ( Last Version V1.1.0 )
+### Install application ( Last Version V1.1.1 )
 Is it better to install Postgresql before installing the application 
 
 Download Link For Postgesql : https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
 
-Download Link For MMP : https://github.com/walwalwalides/MMP_Collection/releases/download/V1.1.0/MMP_1.1.0_Setup.exe
+Download Link For MMP : https://github.com/walwalwalides/MMP_Collection/releases/download/V1.1.1/MMP_1.1.1_Setup.exe
 
 
 ------
