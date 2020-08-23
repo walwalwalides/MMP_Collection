@@ -117,6 +117,8 @@ Download Link For MMP : https://github.com/walwalwalides/MMP_Collection/releases
 ### New Features
 MMP(V1.0.8) :
 https://www.youtube.com/watch?v=WAyMIeGzf34
+MMP(V1.1.1) :
+https://www.youtube.com/watch?v=gjiu-HlU7hw
 
 
 ------
