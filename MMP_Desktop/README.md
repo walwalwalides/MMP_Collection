@@ -117,6 +117,7 @@ Principal Software Benefits:
 ------
 
 ## To Install the Software:
+![](View/Img/Download_Symbole.png)
 
 ### Install application ( Last Version V1.1.1 )
 Is it better to install Postgresql before installing the application 
