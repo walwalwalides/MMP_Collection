@@ -26,6 +26,16 @@ With help this software,the producer can create his own Collection and exchange 
 
 ------
 
+   ## MMP Concept
+
+------
+
+<p align="center">
+  <img src=MMP_Concept.png />
+</p> 
+
+------
+
    ## DESKTOP + ANDROID
 
 ------
