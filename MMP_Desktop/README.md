@@ -84,6 +84,12 @@ Principal Software Benefits:
  ![](View/Img/PathSetting.png)   
  
  - Customizing Paths for delivery processing.
+ 
+ ## Auto Search and Insert Sounds
+
+ ![](View/Img/Auto_Insert_Sounds.png)   
+ 
+ - Auto search and insert Sounds by setting your own filter.
 
  ## MMP Cloud   
  
