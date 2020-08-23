@@ -69,11 +69,11 @@ New Features (V1.1.0) | Release Date (08.08.2020) :
 - Integrate audio format PCM 16 bit.
 
 New Features (V1.1.1) | Release Date (08.09.2020) :
-- Implementation of file explorer menu.
+- Implementation File Explorer menu.
 - Creating a monitoring profile.
-- Build a UI with Layout .
+- Build a User Interface with Layout .
 - Add custom scale in dimensions
-- Add Setting option for layout.
+- Add Setting Option for layout.
 - Maximize upload and download speed.
 - Associate a new skin for the application
 
