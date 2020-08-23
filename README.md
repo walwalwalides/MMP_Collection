@@ -26,7 +26,9 @@ With help this software,the producer can create his own Collection and exchange 
 
 ------
 
-                                                    ## MMP Concept
+   <p align="center">
+  <b>MMP Concept</b><br>
+</p>                                             
 
 ------
 
