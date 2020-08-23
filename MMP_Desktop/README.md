@@ -85,7 +85,7 @@ Principal Software Benefits:
  
  - Customizing Paths for delivery processing.
  
- ## Auto Search and Insert Sounds
+ ## Auto Search and Insert
 
  ![](View/Img/Auto_Insert_Sounds.png)   
  
