@@ -84,15 +84,28 @@ Principal Software Benefits:
  ![](View/Img/PathSetting.png)   
  
  - Customizing Paths for delivery processing.
+ 
+ ## Auto Search and Insert Sounds
+
+ ![](View/Img/Auto_Insert_Sounds.png)   
+ 
+ - Auto search and insert Sounds by setting your own filter.
 
  ## MMP Cloud   
  
- ![](View/Img/CloudSettings.png)   
+ ![](View/Img/CloudSettings.png) 
+ 
  
  - Upload and Download packages using mainstream Cloudservices like (Google Drive,DropBox... ).
  # How to set a connection  with Google Drive
  * After enable the Google Drive API for a specific Google account, and get the access credentials to be used from MMP Software to upload and download packages. 
  * You have to Download credentials (.json) file and move it to work path, to create an secure connection using two parameters from the credentials provided by Google (Client ID and Client Secret).
+ 
+  ## Upload to Cloud   
+ 
+ ![](View/Img/Upload_to_Cloud.png)   
+ 
+ - Receive Notifications after uploading Sounds.
 
 ## Contains
 
@@ -105,18 +118,19 @@ Principal Software Benefits:
 
 ## To Install the Software:
 
-### Install application ( Last Version V1.1.0 )
+### Install application ( Last Version V1.1.1 )
 Is it better to install Postgresql before installing the application 
 
 Download Link For Postgesql : https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
 
-Download Link For MMP : https://github.com/walwalwalides/MMP_Collection/releases/download/V1.1.0/MMP_1.1.0_Setup.exe
+Download Link For MMP : https://github.com/walwalwalides/MMP_Collection/releases/download/V1.1.1/MMP_1.1.1_Setup.exe
 
 
 ------
-### New Features
+### New Features (Youtub)
 MMP(V1.0.8) :
 https://www.youtube.com/watch?v=WAyMIeGzf34
+
 MMP(V1.1.1) :
 https://www.youtube.com/watch?v=gjiu-HlU7hw
 
