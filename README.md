@@ -63,7 +63,7 @@ Under the following link you will find all software processing development :
 - [All Integrate Features](https://github.com/walwalwalides/MMP_Collection/blob/master/New_Feautres_Version.md) 
 ------
 
-## Autor
+## Author
 | [<img src="https://raw.githubusercontent.com/walwalwalides/MMP_Collection/master/Profil_Github.jpg" width="80"><br><sub>@walwalwalides</sub>](https://github.com/walwalwalides) |
 | :---: |
 ------
