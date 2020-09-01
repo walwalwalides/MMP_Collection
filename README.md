@@ -59,6 +59,7 @@ Modern technologies are making this possible:
 ------
 
 ## Software Development Process
+Approximately every month the MMP project makes a new major release. Between major releases point releases will appear that add important bug fixes but no new features. Note that these releases are intended for distributors and system integrators.
 Under the following link you will find all software processing development :
 - [All Integrate Features](https://github.com/walwalwalides/MMP_Collection/blob/master/New_Feautres_Version.md) 
 ------
