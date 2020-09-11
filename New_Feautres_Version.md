@@ -82,7 +82,7 @@ New Features (V1.1.2) | Release Date (08.10.2020) :
 - Adapt new audio format :.mp3 and .ogg and .FLac.
 - Add a multi selection sounds to give the possibility to insert a list of sounds.
 - Add new progress bar showing the position of the sound by playing.
-- 
+- Insert a new encoding Features by uploading wav sounds to the cloud using (Opus codec) placed in file menu Option. 
 
 
 
