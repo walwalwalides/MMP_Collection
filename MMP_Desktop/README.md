@@ -101,6 +101,10 @@ Principal Software Benefits:
  ![](View/Img/Upload_to_Cloud.png)   
  
  - Receive Notifications after uploading Sounds.
+ ## Preview Sound
+ 
+ ![](View/Img/PreviewSound.png)
+ 
 
 ## Contains
 
