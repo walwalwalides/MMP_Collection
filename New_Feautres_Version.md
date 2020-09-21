@@ -79,7 +79,7 @@ New Features (V1.1.1) | Release Date (08.09.2020) :
 
 New Features (V1.1.2) | Release Date (08.10.2020) :
 - Implementation of new spectrum by playing a Sound.
-- Adapt new audio format :.mp3 and .ogg and .FLac.
+- Adapt new audio format :.mp3 and .ogg.
 - Add a multi selection sounds to give the possibility to insert a list of sounds.
 - Add new progress bar showing the position of the sound by playing.
 - Insert a new encoding Features by uploading wav sounds to the cloud using (Opus codec) placed in file menu Option. 
