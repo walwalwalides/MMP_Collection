@@ -103,8 +103,9 @@ Principal Software Benefits:
  - Receive Notifications after uploading Sounds.
  ## Preview Sound
  
- ![](View/Img/PreviewSound.png)
- 
+ ![](View/Img/SoundPreview.png)
+ - Preview a list of sound before and after adding.
+
 
 ## Contains
 
